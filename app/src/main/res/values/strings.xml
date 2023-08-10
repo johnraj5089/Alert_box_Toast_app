@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AlertDialog</string>
+    <string name="first_num">Enter first num</string>
+    <string name="second_num">Enter second num</string>
+    <string name="dialog_message">Welcome to Alert Dialog</string>
+    <string name="dialog_title">Alert</string>
+    <string name="button_sum">Sum</string>
+    <string name="hint">e.g 5</string>
+</resources>
